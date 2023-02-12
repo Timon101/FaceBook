@@ -1,3 +1,13 @@
-.body {
-    background-color: #EFF2F5;
+/* main{
+    width: 79%;
+    height: calc(100vh - 56px);
+    background-color: aquamarine;
+    display: inline-block;
+} */
+
+nav{
+    width: 20%;
+    height: calc(100vh - 56px);
+    background-color:  darkblue;
+    display: inline-block;
 }
