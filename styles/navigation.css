@@ -1,5 +1,27 @@
-.nav-pages{
-    max-height: auto;
+.nav-menu{
+    margin-left: 20px;
+    padding: 10px;
+    border-bottom: solid, 0.5px, rgba(41, 39, 39, 0.805);
+}
+
+
+.nav-menu-item{
+    margin-right: 20px;
+    padding: 10px 40px;
+    list-style: none;
     display: flex;
-    flex-direction: column;
+    align-items: center;
+    white-space: nowrap;
+    overflow: hidden;
+    cursor: pointer;
+    gap: 30px;
+}
+
+.nav-menu-item:hover{
+    background-color: rgba(234, 234, 234, 0.445);
+    border-radius: 0px 20px 20px 0px;
+}
+
+.icon{
+    align-items: center;
 }

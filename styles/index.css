@@ -8,6 +8,6 @@
 nav{
     width: 20%;
     height: calc(100vh - 56px);
-    background-color:  darkblue;
     display: inline-block;
 }
+
