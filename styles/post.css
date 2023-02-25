@@ -1,0 +1,32 @@
+.main-post{
+    display: flex;
+    margin-right:100px ;
+    gap: 15px;
+}
+
+.post-account-icon{
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+    border-radius: 50%;
+}
+
+.post-account-name{
+    gap: 20px;
+
+}
+
+.post-reactions{
+    display: flex;
+}
+
+
+.post-date{
+    font-size: 15px;
+    color: rgb(147, 143, 143);
+}
+
+.post-img{
+    width:500px;
+    height: 625px;
+}

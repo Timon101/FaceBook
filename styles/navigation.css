@@ -14,7 +14,7 @@
     white-space: nowrap;
     overflow: hidden;
     cursor: pointer;
-    gap: 30px;
+    justify-content: start;
 }
 
 .nav-menu-item:hover{
@@ -25,3 +25,4 @@
 .icon{
     align-items: center;
 }
+
