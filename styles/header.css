@@ -2,8 +2,9 @@
     display: flex;
     justify-content: space-between;
     background-color: #ffffff;
-    margin: 5px;
+    padding: 5px;
 }
+
 
 .header-block {
     display: flex;
@@ -29,7 +30,5 @@
     background-color: rgba(231, 234, 237, 0.636);
 }
 
-.icon{
-    width: 150px;
-}
+
 

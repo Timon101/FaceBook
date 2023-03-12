@@ -18,7 +18,7 @@
 }
 
 .nav-menu-item:hover{
-    background-color: rgba(234, 234, 234, 0.445);
+    background-color: rgba(255, 254, 254, 0.445);
     border-radius: 0px 20px 20px 0px;
 }
 
@@ -26,3 +26,11 @@
     align-items: center;
 }
 
+.item-wrapper{
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    overflow: hidden;
+    cursor: pointer;
+    justify-content: start;
+}
